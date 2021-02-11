@@ -1,0 +1,41 @@
+body{
+    background: black;
+}
+.container{
+    position: relative;
+    margin: 100px auto auto auto;
+    background: white;
+    width: 300px;
+    height: 430px;
+}
+.encabezado{
+    height: 40px;
+    padding: 2%;
+}
+.encabezado span{
+    margin-left: 25px;
+}
+#ico{
+    position: absolute;
+    top: 15px;
+    width: 21px;
+}
+.share{
+    position: absolute;
+    height: 25px;
+    top: 10px;
+    right: 10px;
+}
+.foto img{
+    width: 300px;
+}
+.iconos{
+    height: 40px;
+    font-size: 10px;
+    padding: 2%;
+}
+.comentarios{
+    padding: 2%;
+    text-align: justify;
+    font-size: 12px;
+}
